@@ -1,0 +1,22 @@
+body{
+    background-color: #b5e5f5;
+    text-align: center;
+    font-family: 'Kalam', cursive;
+}
+h1{
+    background-color: #d5e1f5;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 50px;
+    height: 50px;
+}
+#webcam, #output{
+    height: 300px;
+    width: 300px;
+    background-color:#d5e1f5 ;
+    margin-left: 200px;
+}
+#others{
+    margin-top: 30px;
+   padding-right: 85px;
+}
